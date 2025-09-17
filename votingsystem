@@ -1,0 +1,12 @@
+An Online Voting System (or e-voting system) allows voters to cast their votes electronically via the internet or a secure network, instead of using traditional paper ballots.
+How Does It Work?
+
+Voter Authentication: Voters verify their identity to ensure only eligible voters can participate.
+
+Voting Interface: Voters select their preferred candidate(s) or options via a digital interface (web/mobile app).
+
+Vote Submission: The vote is encrypted and securely transmitted to the server.
+
+Vote Storage: Votes are stored in a secure database.
+
+Counting and Results: Votes are tallied electronically and results are published.
